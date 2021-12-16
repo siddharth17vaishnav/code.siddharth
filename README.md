@@ -1,4 +1,4 @@
-<a href="https://siddharth17vaishnav.github.io/code.siddharth/">Click here</a>
+<a href="https://siddharth17vaishnav.github.io/code.siddharth/" target="_black">Click here</a>
 
 # Getting Started with Create React App
 
